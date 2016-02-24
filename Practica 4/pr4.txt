@@ -1,0 +1,12 @@
+Práctica 4
+Aplicación de Pilas
+
+El alumno debe desarrollar un programa principal en el que se declaren dos pilas: inverse_stack y bracket_stack, y lleve a cabo lo siguiente: 
+
+1.- Se debe introducir el texto "En un lugar de la Mancha de cuyo nombre no quiero acordarme" en una variable cadena de caracteres. El texto debe introducirse en la pila inverse_stack, y a continuación debe mostrarse por pantalla el contenido de la pila.
+
+2.- Se debe introducir un texto con paréntesis, llaves y corchetes, como por ejemplo "((112 + 4224)*{(234 + 4345))/([10] + 3)}", y a continuación se debe utilizar la pila backet_stack para determinar si los paréntesis, llaves y corchetes están balanceados o no. Es decir, si todo paréntesis, llave o corchete abierto, corresponde con uno cerrado de manera correcta y viceversa. En este último caso el alumno debe determinar cómo utilizar la pila con este propósito.
+
+Criterio de evaluación. Si la práctica funciona con la opción 1, y el alumno lleva a cabo la modificación propuesta por el profesor de forma correcta: 5 puntos. Si además efectúa el punto 2: 10 puntos.
+
+Para cualquier duda consultar (incluso fuera del horario de tutoría) con el profesor Jorge Riera.
